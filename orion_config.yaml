@@ -1,0 +1,11 @@
+#experiment:
+#    algorithms: 
+#        random:
+#            seed: null
+experiment:
+    algorithms: 
+        asha:
+            seed: null
+            num_rungs: null
+            num_brackets: 1
+    strategy: StubParallelStrategy

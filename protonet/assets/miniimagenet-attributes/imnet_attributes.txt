@@ -1,0 +1,317 @@
+1 entity 1
+
+2 entity:non_living 1
+
+3 entity:living 1
+
+4 non_living:food 2
+
+5 non_living:tool 2
+
+6 non_living:vechicle 2
+
+7 non_living:furniture 2
+
+8 non_living:building 2
+
+9 non_living:scene 2
+
+10 non_living:clothing 2
+
+11 tool:music 5
+
+12 tool:sport 5
+
+13 tool:electrical 5
+
+14 tool:other 5
+
+15 tool:container 5
+
+16 tool:kitchen 5
+
+17 is_plant 1
+
+18 has_meat 4
+
+19 has_dough 4
+
+20 vechicle:bike 6
+
+21 vechicle:car 6
+
+22 vechicle:bus 6
+
+23 vechicle:truck 6
+
+24 vechicle:boat 6
+
+25 vechicle:plane 6
+
+26 vechicle:train 6
+
+27 has_wheel 6
+
+28 wheels:1 6
+
+29 wheels:2 6
+
+30 wheels:4 6
+
+31 wheels:more 6
+
+32 wheels:0 6
+
+33 legs_furniture 7
+
+34 sittable 7
+
+35 surface 7
+
+36 building:inside 8
+
+37 building:outside 8
+
+38 bld_type:shop 8
+
+39 bld_type:house 8
+
+40 bld_type:utility 8
+
+41 bld_type:other 8
+
+42 clothing_type:head 10
+
+43 clothing_type:body 10
+
+44 clothing_type:pants 10
+
+45 clothing_type:foot 10
+
+46 clothing_type:skirt 10
+
+47 clothing_type:neck 10
+
+48 music_type:string 11
+
+49 music_type:blow 11
+
+50 music_type:key 11
+
+51 is_ball 12
+
+52 has_screen 13
+
+54 has_cap 15
+
+55 has_handle 15
+
+56 shape:round 1
+
+57 shape:rectangular 1
+
+58 shape:other 1
+
+59 has_wood 2
+
+60 has_metal 2
+
+61 has_plastic 2
+
+62 has_brick 2
+
+63 has_rock 2
+
+64 has_glass 2
+
+65 has_cloth 2
+
+66 has_skin 3
+
+67 has_fur 3
+
+68 has_exosceleton 3
+
+69 skin_type:normal 3
+
+70 skin_type:reptilian 3
+
+71 skin_type:none
+
+72 environment:indoor 1
+
+73 environment:outdoor_domestic 1
+
+74 environment:outdoor_wild 1
+
+75 size:xs 1
+
+76 size:s 1
+
+77 size:m 1
+
+78 size:l 1
+
+79 size:xl 1
+
+80 size:xxl 1
+
+81 is_dynamic 1
+
+82 has_wings 1
+
+83 has_horns 3
+
+84 has_eyes 3
+
+85 neck:short 3
+
+86 neck:normal 3
+
+87 neck:long 3
+
+88 neck:none 3
+
+89 living:shell 3
+
+90 living:mamal 3
+
+91 living:fish 3
+
+92 living:anthropod 3
+
+93 living:bird 3
+
+94 living:insect 3
+
+95 living:snake 3
+
+96 living:amphibian 3
+
+97 living:plant 3
+
+98 living:reptilia 3
+
+99 has_claws 92
+
+100 has_back_thing 91
+
+101 bird_type:water_bird 93
+
+102 bird_type:songbird 93
+
+103 bird_type:heavy_ground 93
+
+104 bird_type:hunting 93
+
+105 bird_type:parrot 93
+
+106 bill_length:about_the_same_as_head 3
+
+107 bill_length:longer_than_head 3
+
+108 bill_length:shorter_than_head 3
+
+109 bill_length:none 3
+
+110 bill_type:curved 3
+
+111 bill_type:dagger 3
+
+112 bill_type:flat 3
+
+113 bill_type:niddle 3
+
+114 bill_type:none 3
+
+115 leg_lenght:short 3
+
+116 leg_lenght:average 3
+
+117 leg_lenght:long 3
+
+118 leg_lenght:none 3
+
+119 mamal:dog 90
+
+120 mamal:monkey 90
+
+121 mamal:bovidae 90
+
+122 mamal:other 90
+
+123 has_tail 3
+
+124 tail_size:small 93
+
+125 tail_size:medium 93
+
+126 tail_size:large 93
+
+127 insect_body:round 94
+
+128 insect_body:cylindrical 94
+
+129 insect_body:multi_part 94
+
+130 has_flowers 97
+
+131 is_mushroom 97
+
+132 dog_type:sheep 119
+
+133 dog_type:service 119
+
+134 dog_type:hunting 119
+
+135 dog_type:decorative 119
+
+136 dog_type:wild 119
+
+137 dog_type:fighting 119
+
+138 hair_type:straight 3
+
+139 hair_type:lightly_curled 3
+
+140 hair_type:strongly_curled 3
+
+141 hair_type:none 3
+
+142 hair_length:short 3
+
+143 hair_length:normal 3
+
+144 hair_length:long 3
+
+145 hair_length:none 3
+
+146 tail:straight 3
+
+147 tail:lightly_curved 3
+
+148 tail:strongly_curved 3
+
+149 tail:none 3
+
+150 ear:pointy 3
+
+151 ear:floppy 3
+
+152 ear:hanging 3
+
+153 ear:none 3
+
+154 has_window 2
+
+155 has_door 2
+
+156 legs:two 3
+
+157 legs:four 3
+
+158 legs:more 3
+
+159 legs:none 3
+
+160 has_rubber 2
